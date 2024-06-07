@@ -1,3 +1,6 @@
+# instalar bibliotecas: opencv-python, mediapipe, cvzone
+
+
 import cv2
 from cvzone.HandTrackingModule import HandDetector
 
